@@ -1,0 +1,15 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Free CDL Practice Questions + CDL Test Requirements Dataset (2026)</title>
+<meta name="description" content="25 free, original CDL practice questions with explanations, plus an open, source-linked dataset of federal and state CDL knowledge test requirements.">
+<style>body{font:16px system-ui,sans-serif;max-width:820px;margin:auto;padding:16px;color:#111}h1{color:#c2410c}.q{border:1px solid #ddd;border-radius:8px;padding:12px;margin:10px 0}details{margin-top:6px}table{border-collapse:collapse;font-size:13px;width:100%}td,th{border:1px solid #ddd;padding:4px;vertical-align:top}a{color:#c2410c}</style></head><body>
+<h1>Free CDL Practice Questions</h1>
+<p>25 original questions on CDL permit rules, general knowledge, air brakes, combination, hazmat, tank and passenger topics. Each answer cites the federal rule (49 CFR) or the CDL manual section it comes from. Full-length practice tests: <a href="https://cdlprephero.com/practice-tests">cdlprephero.com</a>.</p>
+<div id="qs"></div>
+<h2>Dataset: CDL knowledge test requirements (2026)</h2>
+<p>Federal baseline plus a five-state pilot. Every row links to its primary source. <a href="data/cdl-knowledge-test-requirements-2026.csv">Download CSV</a> (CC BY 4.0).</p>
+<table id="t"></table>
+<p><small>Made by <a href="https://cdlprephero.com">CDL Prep Hero</a>. Not affiliated with FMCSA or any state DMV. Always check your state's official CDL manual.</small></p>
+<script>
+fetch('data/questions.json').then(r=>r.json()).then(qs=>{document.getElementById('qs').innerHTML=qs.map((x,i)=>`<div class=q><b>${i+1}. ${x.q}</b><ol type=A>${x.a.map(a=>`<li>${a}</li>`).join('')}</ol><details><summary>Show answer</summary>${String.fromCharCode(65+x.c)}. ${x.a[x.c]} — ${x.e}</details></div>`).join('')});
+fetch('data/cdl-knowledge-test-requirements-2026.csv').then(r=>r.text()).then(t=>{const rows=t.trim().split('\n').map(l=>l.match(/("[^"]*"|[^,]+)/g));document.getElementById('t').innerHTML=rows.map((r,i)=>'<tr>'+r.slice(0,5).map(c=>i?(c.startsWith('http')?`<td><a href="${c}">source</a></td>`:`<td>${c}</td>`):`<th>${c}</th>`).join('')+'</tr>').join('')});
+</script></body></html>
