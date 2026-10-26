@@ -1,0 +1,29 @@
+jurisdiction,item,value,unit,source_url,source_type,retrieved
+Federal (FMCSA),Knowledge test passing score,80,percent correct (minimum),https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-383/subpart-H/section-383.135,regulation,2026-10-25
+Federal (FMCSA),Knowledge test languages,Foreign language allowed; no interpreter,text,https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-383/subpart-H/section-383.133,regulation,2026-10-25
+Federal (FMCSA),Skills test language,English only; interpreters prohibited,text,https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-383/subpart-H/section-383.133,regulation,2026-10-25
+Federal (FMCSA),Retake uses different test version,Yes,text,https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-383/subpart-H/section-383.133,regulation,2026-10-25
+Federal (FMCSA),CLP minimum age,18,years,https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-383/subpart-B/section-383.25,regulation,2026-10-25
+Federal (FMCSA),CLP maximum validity,1,year from initial issuance,https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-383/subpart-B/section-383.25,regulation,2026-10-25
+Federal (FMCSA),Wait after CLP before skills test,14,days,https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-383/subpart-B/section-383.25,regulation,2026-10-25
+Federal (FMCSA),ELDT required on/after,2022-02-07,date,https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-380/subpart-F,regulation,2026-10-25
+Federal (FMCSA),Clearinghouse-II state query/downgrade start,2024-11-18,date,https://clearinghouse.fmcsa.dot.gov/Learn/News/Item/Clearinghouse-II-begins,agency notice,2026-10-25
+Federal (FMCSA),Non-domiciled CDL final rule effective,2026-03-16,date,https://www.federalregister.gov/documents/2026/02/13/2026-02965/restoring-integrity-to-the-issuance-of-non-domiciled-commercial-drivers-licenses-cdl,Federal Register,2026-10-25
+California,General Knowledge questions,50,questions (10 errors allowed),https://www.dmv.ca.gov/portal/file/statewideevaluationofcommercialdriverslicensewrittenknowledgetests/,state DMV report,2026-10-25
+California,Air Brakes questions,20,questions (3 errors allowed),https://www.dmv.ca.gov/portal/file/statewideevaluationofcommercialdriverslicensewrittenknowledgetests/,state DMV report,2026-10-25
+California,Combination Vehicles questions,15,questions (3 errors allowed),https://www.dmv.ca.gov/portal/file/statewideevaluationofcommercialdriverslicensewrittenknowledgetests/,state DMV report,2026-10-25
+California,Passenger Transport questions,20,questions (4 errors allowed),https://www.dmv.ca.gov/portal/file/statewideevaluationofcommercialdriverslicensewrittenknowledgetests/,state DMV report,2026-10-25
+California,Doubles/Triples questions,15,questions (3 errors allowed),https://www.dmv.ca.gov/portal/file/statewideevaluationofcommercialdriverslicensewrittenknowledgetests/,state DMV report,2026-10-25
+California,Tank Vehicle questions,15,questions (3 errors allowed),https://www.dmv.ca.gov/portal/file/statewideevaluationofcommercialdriverslicensewrittenknowledgetests/,state DMV report,2026-10-25
+California,Hazardous Materials questions,20,questions (4 errors allowed),https://www.dmv.ca.gov/portal/file/statewideevaluationofcommercialdriverslicensewrittenknowledgetests/,state DMV report,2026-10-25
+California,Attempts per knowledge test per application,3,attempts,https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/commercial-driver-licenses-cdl/,state DMV page,2026-10-25
+Texas,CLP fee (original),25,USD (expires 180 days),https://www.dps.texas.gov/section/driver-license/driver-license-fees,state DPS page,2026-10-25
+Texas,CDL fee (new; age 18-84),97,USD (8-year),https://www.dps.texas.gov/section/driver-license/driver-license-fees,state DPS page,2026-10-25
+Texas,Knowledge test language,English only from 2026-06-01,text,https://www.dps.texas.gov/section/driver-license/how-do-i-apply-commercial-driver-license,state DPS page,2026-10-25
+Texas,Knowledge test order,Texas Commercial Rules; General Knowledge; Combination (A); Air Brake; Endorsements,text,https://www.dps.texas.gov/section/driver-license/how-do-i-apply-commercial-driver-license,state DPS page,2026-10-25
+Florida,CDL fee (original or renewal),75,USD,https://www.flhsmv.gov/fees/,state DMV page,2026-10-25
+Florida,Endorsement fee,7,USD each,https://www.flhsmv.gov/fees/,state DMV page,2026-10-25
+Florida,Knowledge retest fee,10,USD,https://www.flhsmv.gov/fees/,state DMV page,2026-10-25
+New York,CDL permit application fee,10,USD (covers knowledge tests taken together),https://dmv.ny.gov/driver-license/commercial-drivers/get-a-commercial-driver-license-cdl,state DMV page,2026-10-25
+New York,General Knowledge questions,50,questions (40 correct to pass),https://dmv.ny.gov/driver-license/commercial-drivers/get-a-commercial-driver-license-cdl,state DMV page,2026-10-25
+Pennsylvania,Knowledge Test Authorization validity,1,year (3 attempts),https://www.pa.gov/agencies/dmv/faqs/driver-licensing-faqs/cdl-learners-permit-faqs,state DMV page,2026-10-25
