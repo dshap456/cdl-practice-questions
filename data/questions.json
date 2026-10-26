@@ -1,0 +1,277 @@
+[
+ {
+  "q": "Under federal rules, what is the minimum score needed to pass each CDL knowledge test?",
+  "a": [
+   "70%",
+   "75%",
+   "80%"
+  ],
+  "c": 2,
+  "e": "49 CFR 383.135 requires at least 80% correct on each knowledge test.",
+  "topic": "General knowledge"
+ },
+ {
+  "q": "How long must you hold a commercial learner's permit (CLP) before you can take the CDL skills test?",
+  "a": [
+   "7 days",
+   "14 days",
+   "30 days"
+  ],
+  "c": 1,
+  "e": "49 CFR 383.25(e): no skills test in the first 14 days after the CLP is first issued.",
+  "topic": "Permit"
+ },
+ {
+  "q": "What is the longest a CLP can be valid without retaking the knowledge tests?",
+  "a": [
+   "6 months",
+   "1 year",
+   "2 years"
+  ],
+  "c": 1,
+  "e": "49 CFR 383.25(c): no more than one year from initial issuance.",
+  "topic": "Permit"
+ },
+ {
+  "q": "In what order are the three CDL skills test segments given?",
+  "a": [
+   "Road test, basic control, pre-trip",
+   "Pre-trip inspection, basic vehicle control, on-road",
+   "Basic control, pre-trip, road test"
+  ],
+  "c": 1,
+  "e": "49 CFR 383.133(c)(6).",
+  "topic": "Skills test"
+ },
+ {
+  "q": "Which endorsements may appear on a CLP?",
+  "a": [
+   "Passenger, school bus and tank only",
+   "Any endorsement",
+   "Hazmat only"
+  ],
+  "c": 0,
+  "e": "49 CFR 383.25(a)(5): P, S and N only; all others are prohibited on a CLP.",
+  "topic": "Permit"
+ },
+ {
+  "q": "A CLP holder with a tank (N) endorsement may drive which tank vehicles?",
+  "a": [
+   "Any tank vehicle",
+   "Only empty tank vehicles, purged of any hazmat residue",
+   "Only tanks under 1,000 gallons"
+  ],
+  "c": 1,
+  "e": "49 CFR 383.25(a)(5)(iii).",
+  "topic": "Tank"
+ },
+ {
+  "q": "May a CLP holder drive a vehicle transporting hazardous materials?",
+  "a": [
+   "Yes, with a supervisor",
+   "Yes, under placard limits",
+   "No"
+  ],
+  "c": 2,
+  "e": "49 CFR 383.25(a)(6).",
+  "topic": "Hazmat"
+ },
+ {
+  "q": "Where must the supervising CDL holder sit when a CLP holder drives a truck?",
+  "a": [
+   "In the front seat next to the CLP holder",
+   "Anywhere in the cab",
+   "In a follow vehicle"
+  ],
+  "c": 0,
+  "e": "49 CFR 383.25(a)(1).",
+  "topic": "Permit"
+ },
+ {
+  "q": "An Entry-Level Driver Training provider must be listed where?",
+  "a": [
+   "Your state's DMV website",
+   "FMCSA's Training Provider Registry",
+   "The Drug & Alcohol Clearinghouse"
+  ],
+  "c": 1,
+  "e": "49 CFR 380 Subpart G; tpr.fmcsa.dot.gov.",
+  "topic": "ELDT"
+ },
+ {
+  "q": "Can an interpreter be used during the CDL skills test?",
+  "a": [
+   "Yes, if certified",
+   "Only for the pre-trip",
+   "No"
+  ],
+  "c": 2,
+  "e": "49 CFR 383.133(c)(5): interpreters are prohibited; the test is conducted in English.",
+  "topic": "Skills test"
+ },
+ {
+  "q": "If you fail the air brake knowledge test but get a CLP or CDL, what happens?",
+  "a": [
+   "You cannot get any CDL",
+   "An air brake restriction is placed on the license",
+   "Nothing"
+  ],
+  "c": 1,
+  "e": "49 CFR 383.135(a)(2).",
+  "topic": "Air brakes"
+ },
+ {
+  "q": "If you fail the combination vehicles knowledge test, which license can you not be issued?",
+  "a": [
+   "Group A CLP or CDL",
+   "Group B CDL",
+   "Group C CDL"
+  ],
+  "c": 0,
+  "e": "49 CFR 383.135(a)(3).",
+  "topic": "Combination"
+ },
+ {
+  "q": "Taking the skills test in a truck with an automatic transmission results in what?",
+  "a": [
+   "No restriction",
+   "A manual transmission restriction",
+   "An air brake restriction"
+  ],
+  "c": 1,
+  "e": "49 CFR 383.135(b)(5).",
+  "topic": "Skills test"
+ },
+ {
+  "q": "If you retake a failed knowledge test, the state must give you:",
+  "a": [
+   "The same test",
+   "A different version of the test",
+   "An oral test"
+  ],
+  "c": 1,
+  "e": "49 CFR 383.133(b)(4).",
+  "topic": "General knowledge"
+ },
+ {
+  "q": "Before issuing or renewing a CDL, states must check which federal database for drug and alcohol violations?",
+  "a": [
+   "The Drug & Alcohol Clearinghouse",
+   "The National Driver Register only",
+   "E-Verify"
+  ],
+  "c": 0,
+  "e": "FMCSA Clearinghouse-II, in effect since Nov 18, 2024.",
+  "topic": "Clearinghouse"
+ },
+ {
+  "q": "When entering or leaving the cab, how many points of contact should you keep?",
+  "a": [
+   "One",
+   "Two",
+   "Three"
+  ],
+  "c": 2,
+  "e": "State CDL manuals (e.g. California DL 650) teach three points of contact.",
+  "topic": "Pre-trip"
+ },
+ {
+  "q": "When you get out of the vehicle during the inspection test, you should first:",
+  "a": [
+   "Leave it in gear",
+   "Set the parking brake and put it in neutral",
+   "Leave the engine at high idle"
+  ],
+  "c": 1,
+  "e": "California Commercial Driver Handbook, vehicle inspection section.",
+  "topic": "Pre-trip"
+ },
+ {
+  "q": "A low air pressure warning must come on before tank pressure falls below:",
+  "a": [
+   "20 psi",
+   "60 psi",
+   "100 psi"
+  ],
+  "c": 1,
+  "e": "CDL manual, Air Brakes section.",
+  "topic": "Air brakes"
+ },
+ {
+  "q": "In most trucks, spring brakes come on automatically when air pressure drops to roughly:",
+  "a": [
+   "20 to 45 psi",
+   "60 to 80 psi",
+   "90 to 100 psi"
+  ],
+  "c": 0,
+  "e": "CDL manual, Air Brakes section.",
+  "topic": "Air brakes"
+ },
+ {
+  "q": "Below 40 mph, how much following distance should you leave?",
+  "a": [
+   "One second for every 10 feet of vehicle length",
+   "Two seconds total",
+   "One car length per 10 mph"
+  ],
+  "c": 0,
+  "e": "CDL manual, Space Management. Add one more second above 40 mph.",
+  "topic": "General knowledge"
+ },
+ {
+  "q": "On a one-way or divided highway, where should you place warning devices when stopped?",
+  "a": [
+   "10, 100 and 200 feet toward approaching traffic",
+   "50 feet behind only",
+   "500 feet behind only"
+  ],
+  "c": 0,
+  "e": "CDL manual, Stopping on the Road.",
+  "topic": "General knowledge"
+ },
+ {
+  "q": "Hydroplaning can happen at speeds as low as:",
+  "a": [
+   "15 mph",
+   "30 mph",
+   "55 mph"
+  ],
+  "c": 1,
+  "e": "CDL manual, Driving in Bad Weather.",
+  "topic": "General knowledge"
+ },
+ {
+  "q": "How far ahead should you look while driving?",
+  "a": [
+   "3 to 5 seconds",
+   "12 to 15 seconds",
+   "30 to 40 seconds"
+  ],
+  "c": 1,
+  "e": "CDL manual, Seeing Ahead.",
+  "topic": "General knowledge"
+ },
+ {
+  "q": "A vehicle carrying placarded hazardous materials must have placards on how many sides?",
+  "a": [
+   "Two",
+   "Front and back only",
+   "All four sides"
+  ],
+  "c": 2,
+  "e": "CDL manual, Hazardous Materials section.",
+  "topic": "Hazmat"
+ },
+ {
+  "q": "Who may ride as a passenger when a CLP holder with a P endorsement drives a bus?",
+  "a": [
+   "Paying passengers",
+   "Only examiners, auditors/inspectors, other trainees and the supervising CDL holder",
+   "Anyone over 18"
+  ],
+  "c": 1,
+  "e": "49 CFR 383.25(a)(5)(i).",
+  "topic": "Passenger"
+ }
+]
